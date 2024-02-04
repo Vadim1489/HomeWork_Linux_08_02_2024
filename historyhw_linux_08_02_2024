@@ -1,0 +1,18 @@
+   0 date > /home/file
+   1 mkdir -p /tmp/hw3/vadim
+   2 echo "Homework 3" >> /home/file 
+   3 df -h >> /home/file 
+   4 history | tail -5 >> /home/file 
+   5 cat /proc/cpuinfo | grep vendor
+   6 cat /proc/cpuinfo | grep vendor >> /home/file 
+   7 vi /home/file 
+   8 cat /home/file 
+   9 ps -ef | wc -l >> /home/file 
+  10 cat /home/file 
+  11 cp /home/file /tmp/hw3/vadim/
+  12 tree /tmp/
+  13 tree /home/
+  14 cat /tmp/hw3/vadim/file 
+  15 rm /home/file 
+  16 tree /home/
+  17 history >> historyhw_08_02_2024 
